@@ -1,0 +1,205 @@
+header{
+			position: absolute;
+			margin-left: 5px;
+			top: 10px;
+			width: 99%;
+			height: 55px;
+			color: midnightblue;
+			background-color: gainsboro;
+			border-color: aliceblue;
+			border-spacing: 6px;
+	}
+footer {
+			position: absolute;
+			margin-left: 5px;
+			bottom: 10px;
+			width: 99%;
+			height: 55px;
+			color: midnightblue;
+			font-family: Comic Sans MS;
+			background-color: gainsboro;
+			border-color: aliceblue;
+			border-spacing: 6px;
+	}
+body  {
+		background-image: url("https://www.germainhonda-annarbor.com/wp-content/themes/DealerInspireDealerTheme/images/video-fallback-background.jpg");
+		width: 1300px;
+	}
+a{
+	color: white;
+	}
+/* /* .navbar-brand{
+	color: black;
+	} */
+
+.panel-default{
+	margin-top: 100px;
+	}
+
+.top-header{
+	float: center;
+	font-size: 35px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin: 5px;
+ 	padding-right: 25px; 
+	}
+.top-footer{
+	font-size: 15px;
+	float: center;
+	padding-top: 8px;
+	}
+.btn-default{
+	position: fixed;
+	color: #fff;
+	background-color: lightcoral;
+	border-color: grey;
+	width: 5%;
+	margin-left: 30px;
+	}
+.btn-submit {
+    position: fixed;
+	color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+	width: 5%;
+}
+.body-content{
+	 padding-left: 80px;
+	 padding-top: 85px;
+	 color: white;
+	}
+.home1{
+	height: 100px;
+	}
+.home2{	
+	 padding-left: 80px;
+	}
+.home3{
+	height: 35px;
+	}
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 1050px;
+    height: 250px;
+}
+.flex-item {
+    background-color: gray;
+	border: 50px;
+	border-color: darkturquoise;
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+}
+.flex-text{
+	font-size: large;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.flex-container2 {
+    display: -webkit-flex;
+    display: flex;
+    width: 1050px;
+    height: 350px;
+}
+.flex-item2 {
+    background-color: gray;
+	border: 50px;
+	border-color: darkturquoise;
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+}
+.flex-text2 {
+	font-size: large;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.flex-text3 {
+	font-size: small;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.car-container{
+	display: -webkit-flex;
+    display: flex;
+	width: 1200px;
+	height: 390px;
+}
+.car-image{
+	margin: 5px;
+}
+
+.car-item{
+	background-color: gray;
+	border: 50px;
+	border-radius: 20px;
+	width: 442px;
+	height: 380px;
+	margin: 5px;
+	margin-left: 25px;
+}
+.car-text1{
+	font-size: medium;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.car-text2{
+	font-size: small;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.purchaseText{
+	font-size: xx-large;
+	margin-top: 70px;
+}
+.car-container1{
+	display: -webkit-flex;
+    display: flex;
+	width: 440px;
+	height: 110px;
+/* 	background-color: black; */
+	margin: 2px;
+	border-radius: 10px;
+}
+.car-container2{
+	display: -webkit-flex;
+    display: flex;
+	width: 215px;
+	height: 110px;
+	/* background-color: red; */
+	margin-left: 20px;
+	border-radius: 10px;
+}
+.car-container3{
+	display: -webkit-flex;
+    display: flex;
+	width: 440px;
+	height: 110px;
+	/*  background-color: black; */
+	margin: 2px;
+	border-radius: 10px;
+}
+.car-container4{
+	display: -webkit-flex;
+    display: flex;
+	width: 215px;
+	height: 110px;
+	/* background-color: red; */
+	margin-left: 40px;
+	border-radius: 10px;
+}
+.car-container5{
+	display: -webkit-flex;
+    display: flex;
+	width: 210px;
+	height: 80px;
+/* 	background-color: black; */
+	margin: 2px;
+	border-radius: 10px;
+	margin-left: 140px;
+}
+.btnPurchase{
+	padding-left: 190px;
+}
